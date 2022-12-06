@@ -1,0 +1,1 @@
+web: gunicorn sp_trans:app
